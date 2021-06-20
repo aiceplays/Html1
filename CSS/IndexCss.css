@@ -1,0 +1,41 @@
+.Head {
+
+margin: 0 -9999rem;
+ /* add back negative margin value */
+ padding: 0.25rem 9999rem;
+ background-color: black;
+
+
+
+}
+.HeadP {
+  font-size: 20px;
+  color: white;
+  -webkit-box-shadow: 0px 18px 34px 7px rgba(0,0,0,0.7);
+box-shadow: 0px 18px 34px 7px rgba(0,0,0,0.7);
+text-shadow: 2px 8px 8px rgba(0,0,0,0.19);
+}
+body {
+      text-align: center;
+      font-family: sans-serif;
+
+}
+.b1 {
+  height:30px;
+    width:200px;
+    border-radius: 10px;
+    border: none;
+    text-shadow: 2px 8px 8px rgba(0,0,0,0.19);
+      text-shadow: 2px 8px 8px rgba(0,0,0,0.19);
+}
+.b1:hover {  border: 2px solid black;
+  border-radius: 10px;
+
+}
+.b1:active {
+  background-color: none;
+}
+.p {
+
+text-shadow: 2px 8px 8px rgba(0,0,0,0.19);
+}
